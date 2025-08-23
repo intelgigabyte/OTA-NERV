@@ -2,28 +2,28 @@
   {
     "device_name": "Samsung Galaxy A71",
     "codename": "a71",
-    "maintainer": "inntelgigabyte,pascua28",
+    "maintainer": "intelgigabyte,pascua28",
     "support_group": "https://t.me/groupzie",
     "image_url": "https://wiki.lineageos.org/images/devices/a71.png"
   },
   {
     "device_name": "Samsung Galaxy A52s",
     "codename": "a52sxq",
-    "maintainer": "yagzie",
+    "maintainer": "Yagzie",
     "support_group": "https://t.me/groupzie",
     "image_url": "https://wiki.lineageos.org/images/devices/a52sxq.png"
   },
   {
     "device_name": "Samsung Galaxy S21 FE (Snapdragon)",
     "codename": "r9q",
-    "maintainer": "yagzie",
+    "maintainer": "Yagzie",
     "support_group": "https://t.me/groupzie",
     "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s21-fe-5g.jpg"
   },
   {
     "device_name": "Samsung Galaxy S21 FE (Exynos)",
     "codename": "r9q2",
-    "maintainer": "yagzie",
+    "maintainer": "Yagzie",
     "support_group": "https://t.me/groupzie",
     "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s21-fe-5g.jpg"
   },
