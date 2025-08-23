@@ -14,14 +14,14 @@
     "image_url": "https://wiki.lineageos.org/images/devices/a52sxq.png"
   },
   {
-    "device_name": "Samsung Galaxy S21 FE (Snapdragon)",
+    "device_name": "Samsung Galaxy S21 FE",
     "codename": "r9q",
     "maintainer": "Yagzie",
     "support_group": "https://t.me/groupzie",
     "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s21-fe-5g.jpg"
   },
   {
-    "device_name": "Samsung Galaxy S21 FE (Exynos)",
+    "device_name": "Samsung Galaxy S21 FE 2nd Gen",
     "codename": "r9q2",
     "maintainer": "Yagzie",
     "support_group": "https://t.me/groupzie",
