@@ -54,5 +54,12 @@
     "maintainer": "yagzie",
     "support_group": "https://t.me/groupzie",
     "image_url": "https://wiki.lineageos.org/images/devices/r8q.png"
+  },
+  {
+    "device_name": "Samsung Galaxy M52 5G",
+    "codename": "m52xq",
+    "maintainer": "yagzie",
+    "support_group": "https://t.me/groupzie",
+    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m32-5g-.jpg"
   }
 ]
