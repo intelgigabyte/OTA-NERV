@@ -1,0 +1,58 @@
+[
+  {
+    "device_name": "Samsung Galaxy A71",
+    "codename": "a71",
+    "maintainer": "inntelgigabyte,pascua28",
+    "support_group": "https://t.me/groupzie",
+    "image_url": "https://wiki.lineageos.org/images/devices/a71.png"
+  },
+  {
+    "device_name": "Samsung Galaxy A52s",
+    "codename": "a52sxq",
+    "maintainer": "yagzie",
+    "support_group": "https://t.me/groupzie",
+    "image_url": "https://wiki.lineageos.org/images/devices/a52sxq.png"
+  },
+  {
+    "device_name": "Samsung Galaxy S21 FE (Snapdragon)",
+    "codename": "r9q",
+    "maintainer": "yagzie",
+    "support_group": "https://t.me/groupzie",
+    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-r9q.jpg"
+  },
+  {
+    "device_name": "Samsung Galaxy S21 FE (Exynos)",
+    "codename": "r9q2",
+    "maintainer": "yagzie",
+    "support_group": "https://t.me/groupzie",
+    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-r9q2.jpg"
+  },
+  {
+    "device_name": "Samsung Galaxy A73 5G",
+    "codename": "a73xq",
+    "maintainer": "yagzie",
+    "support_group": "https://t.me/groupzie",
+    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a73-5g.jpg"
+  },
+  {
+    "device_name": "Samsung Galaxy A51",
+    "codename": "a51",
+    "maintainer": "Alexfurina",
+    "support_group": "https://t.me/groupzie",
+    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a51.jpg"
+  },
+  {
+    "device_name": "Samsung Galaxy A53",
+    "codename": "a53x",
+    "maintainer": "Ksawlii",
+    "support_group": "https://t.me/groupzie",
+    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a53x.jpg"
+  },
+  {
+    "device_name": "Samsung Galaxy S20 FE",
+    "codename": "r8q",
+    "maintainer": "yagzie",
+    "support_group": "https://t.me/groupzie",
+    "image_url": "https://wiki.lineageos.org/images/devices/r8q.png"
+  }
+]
