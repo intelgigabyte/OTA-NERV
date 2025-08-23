@@ -2,7 +2,7 @@
   {
     "device_name": "Samsung Galaxy A71",
     "codename": "a71",
-    "maintainer": "intelgigabyte,pascua28",
+    "maintainer": "intelgigabyte,Pascua28",
     "support_group": "https://t.me/groupzie",
     "image_url": "https://wiki.lineageos.org/images/devices/a71.png"
   },
@@ -30,7 +30,7 @@
   {
     "device_name": "Samsung Galaxy A73 5G",
     "codename": "a73xq",
-    "maintainer": "yagzie",
+    "maintainer": "Yagzie",
     "support_group": "https://t.me/groupzie",
     "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a73-5g.jpg"
   },
@@ -51,15 +51,15 @@
   {
     "device_name": "Samsung Galaxy S20 FE",
     "codename": "r8q",
-    "maintainer": "yagzie",
+    "maintainer": "Yagzie",
     "support_group": "https://t.me/groupzie",
     "image_url": "https://wiki.lineageos.org/images/devices/r8q.png"
   },
   {
     "device_name": "Samsung Galaxy M52 5G",
     "codename": "m52xq",
-    "maintainer": "yagzie",
+    "maintainer": "Yagzie",
     "support_group": "https://t.me/groupzie",
-    "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m32-5g-.jpg"
+    "image_url": "https://xdaforums.com/data/xda/device/icon/19/1995.jpg?1674040231"
   }
 ]
