@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": 1755176824,
-      "filename": "ProjectNERV_1.1.1-2f678b38_20250815_a71.zip",
-      "id": "2f678b38",
-      "romtype": "ProjectNERV for Galaxy A71",
-      "size": 4664300390,
-      "url": "https://drive.google.com/file/d/1-A5V04kHFPDtsJ_boiEGrVShfPtHYFQu/view?usp=drivesdk",
-      "version": "1.1.1"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 175057151,
+            "filename": "ProjectNERV_1.1.1-2f678b38_20250815_a71.zip",
+            "id": "2f678b38",
+            "romtype": "OFFICIAL",
+            "size": 4664300390,
+            "url": "https://drive.google.com/file/d/1-A5V04kHFPDtsJ_boiEGrVShfPtHYFQu/view",
+            "version": "1.1.1"
+        }
+    ]
 }
